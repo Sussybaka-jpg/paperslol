@@ -1,0 +1,8 @@
+
+{
+  "name": "paperslol",
+  "description": "Simple and secure photo and PDF storage for academic papers.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
